@@ -1,0 +1,17 @@
+{
+  "updated": "2026-11-11T08:29:11.623Z",
+  "mods": [
+    {
+      "id": 1,
+      "title": "Admin Tools",
+      "author": "Cr0mb",
+      "version": "2.1",
+      "game": "1.14.0",
+      "sha256": "9c44b7b447369dbbb1f7a2968a6121d0deea478744c4bd72ad23ad0a73df864e",
+      "folder": "mods/Cr0mb/admin-tools-1",
+      "download": "mods/Cr0mb/admin-tools-1/versions/2.1/admin-tools-2.1.zip",
+      "page": "https://jestercastles.com/mods.html#mod-1",
+      "updated": "2026-11-06"
+    }
+  ]
+}

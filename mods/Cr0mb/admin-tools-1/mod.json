@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "title": "Admin Tools",
+  "slug": "admin-tools",
+  "author": "Cr0mb",
+  "version": "2.1",
+  "game": "1.14.0",
+  "compatible": "Jester 1.14.0 and later for the panel. On 1.13.0 the console commands work without it; on 1.11.0 and 1.12.0 only the old",
+  "description": "A window for everything the console can do, so you never need to remember a command. The crown button beside the tools opens it. You: switches, stats, buffs. World: time, weather, creatures. Items: search and click to give. Places: click to go there. Players: heal, give, bring, mute, freeze, kick, ban and server settings, without typing a name. Console: every command listed and searchable. Right click any control to pin it to the top. In single player anyone can use it, and feats (achievements) turn off for that character. Online only the host and server operators can, and the server checks it.",
+  "sha256": "9c44b7b447369dbbb1f7a2968a6121d0deea478744c4bd72ad23ad0a73df864e",
+  "files": 3,
+  "bytes": 9484,
+  "folder": "mods/Cr0mb/admin-tools-1",
+  "download": "mods/Cr0mb/admin-tools-1/versions/2.1/admin-tools-2.1.zip",
+  "page": "https://jestercastles.com/mods.html#mod-1",
+  "approved": "2026-11-06",
+  "versions": [
+    {
+      "version": "2.1",
+      "date": "2026-11-11",
+      "sha256": "9c44b7b447369dbbb1f7a2968a6121d0deea478744c4bd72ad23ad0a73df864e",
+      "zip": "mods/Cr0mb/admin-tools-1/versions/2.1/admin-tools-2.1.zip"
+    }
+  ]
+}
